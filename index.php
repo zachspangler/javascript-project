@@ -41,7 +41,7 @@
 		<div class="jumbotron">
 			<h1 class="display-3">Beyonce's, world!</h1>
 			<p class="lead">Meet Beyonce the Greatest Performer, Mom, Role Model & Friend of All-Time.</p>
-			<h6>Find out Beyonce's answer to any question, just click below</h6>
+			<h6>Click below to find out Beyonce's answer to the only question that matters</h6>
 			<a class="btn btn-primary btn-lg" href="#" role="button" id="click"
 				onclick="document.getElementById('click').innerHTML = 'Nickname: Queen B...nough said';">
 				How great is Beyonce?<br></a>
