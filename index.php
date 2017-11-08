@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="shortcut icon" href="images/beyonce%20favicon.jpg" type="image/x-icon">
 		<title>Spangler | JavaScript Project</title>
 		<!---MY CSS--->
 		<link rel="stylesheet" href="style.css" type="text/css">
