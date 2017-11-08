@@ -2,5 +2,21 @@ footer {
 	background-color: black;
 	color: white;
 	text-align: center;
-	padding: 2em;
+	padding: 1em;
+}
+
+img {
+	padding: 1em;
+	display: inline-block;
+	margin: auto;
+}
+
+.col-md-4 {
+	display: inline-block;
+	margin: auto;
+}
+
+button {
+	display: inline-block;
+	margin: auto;
 }
