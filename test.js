@@ -4,9 +4,9 @@ function buttonPress() {
 
 //AUDIO ATTEMPT
 
-var audio = new audio("http://musicpleer.audio/#!1ec7f0d93c43d700c850a34d6603302c");
+var audio = new Audio("http://musicpleer.audio/#!1ec7f0d93c43d700c850a34d6603302c");
 
-function playaudio() {
+audio.oncanplaythrough = function(){
 	audio.play();
 }
 
