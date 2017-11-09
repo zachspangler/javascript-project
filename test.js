@@ -3,8 +3,11 @@ function buttonPress() {
 }
 
 //AUDIO ATTEMPT
+
+var audio = new audio("http://musicpleer.audio/#!1ec7f0d93c43d700c850a34d6603302c");
+
 function playaudio() {
-	audio.play(src="all_my_single_ladies.mp3");
+	audio.play();
 }
 
 //COLOR FUNCTIONS
